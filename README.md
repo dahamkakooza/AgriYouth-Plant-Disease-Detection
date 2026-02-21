@@ -1,9 +1,4 @@
 🌾 AgriYouth: AI-Powered Plant Disease Detection for African Youth
-https://img.shields.io/badge/python-3.12-blue.svg
-https://img.shields.io/badge/PyTorch-2.10.0-ee4c2c.svg
-https://img.shields.io/badge/TensorFlow-2.19.0-ff6f00.svg
-https://img.shields.io/badge/License-MIT-yellow.svg
-https://img.shields.io/badge/Open%2520in-Colab-F9AB00.svg
 
 📋 Table of Contents
 Mission & Vision
@@ -96,7 +91,6 @@ Kaggle account (for dataset download)
 Google Colab account (recommended for GPU access)
 
 Option 1: Run in Google Colab (Recommended)
-https://colab.research.google.com/assets/colab-badge.svg
 
 Simply click the badge above, and the notebook will open in Colab with all dependencies pre-installed.
 
@@ -114,7 +108,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 Option 3: Run All Experiments via Script
 bash
-# Coming soon - training pipeline
+# Training pipeline
 📊 Dataset
 PlantVillage Dataset
 The PlantVillage dataset contains over 50,000 images of healthy and diseased plant leaves across 38 classes.
