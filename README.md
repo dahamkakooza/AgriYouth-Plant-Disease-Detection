@@ -1,9 +1,4 @@
 🌾 AgriYouth: AI-Powered Plant Disease Detection for African Youth
-https://img.shields.io/badge/python-3.12-blue.svg
-https://img.shields.io/badge/PyTorch-2.10.0-ee4c2c.svg
-https://img.shields.io/badge/TensorFlow-2.19.0-ff6f00.svg
-https://img.shields.io/badge/License-MIT-yellow.svg
-https://img.shields.io/badge/Open%2520in-Colab-F9AB00.svg
 
 📋 Table of Contents
 Mission & Vision
